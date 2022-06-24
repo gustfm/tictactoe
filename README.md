@@ -1,2 +1,2 @@
-# A simple tictactoe made me with C++ (=
+# A simple tictactoe made with C++ (=
 
